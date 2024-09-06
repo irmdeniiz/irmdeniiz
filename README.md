@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deniz</h1>
-<h3 align="center">I am committed to achieving the best version of myself and for this purpose I am receiving training to improve me in the mobile field. I hope you like the profile! with love :)</h3>
+<h3 align="center">I am committed to achieving the best version of myself and for this purpose I am receiving training to improve me in the mobile field. I love reading books and traveling. I hope you like the profile! with love :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irmdeniiz&label=Profile%20views&color=0e75b6&style=flat" alt="irmdeniiz" /> </p>
 
